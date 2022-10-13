@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently contributing to various Open Source projects in Rust and Java.
 - 🌱 I’m always curious to know more about Distributed Systems, Databases and Search Engines. 
-- 👯 Currently preferred programming language of choice -> Rust.
+- 👯 Current programming language of choice -> Rust.
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/akshay-kulkarni-329a9312/)
