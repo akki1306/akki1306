@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - 👯 Current programming language of choice -> Rust.
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/akshay-kulkarni-329a9312/)
+- 📫 You can reach me on: [linkedin](https://www.linkedin.com/in/akshay-kulkarni-329a9312/) or [email](kakki9642@gmail.com)
 
 [![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akki1306&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
