@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 --> 
 
 - 🔭 I’m currently contributing to various Open Source projects in Rust and Java.
-- 🌱 I’m always curious to know more about Distributed Systems, Databases and Search Engines. 
-- 👯 Current programming language of choice -> Rust.
+- 🌱 Always interested in Distributed Systems, Databases and Search Engines. 
+- 👯 Rust is my current programming language of choice.
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
-- 📫 You can reach me on: [linkedin](https://www.linkedin.com/in/akshay-kulkarni-329a9312/) or [email](kakki9642@gmail.com)
+- 📫 You can reach me on: [linkedin](https://www.linkedin.com/in/akshay-kulkarni-329a9312/) or [email](mailto:kakki9642@gmail.com)
 
 [![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akki1306&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
