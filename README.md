@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 --> 
 
 - 🔭 I’m currently contributing to various Open Source projects in Rust and Java.
-- 🌱 Always interested in Distributed Systems, Databases and Search Engines. 
+- 🌱 Passionate about Databases and Search Engines. 
 - 👯 Rust is my current programming language of choice.
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
