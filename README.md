@@ -33,3 +33,8 @@ Here are some ideas to get you started:
 [![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akki1306&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=akki1306&theme=onedark)
+
+Side Projects in Rust:
+
+1. [HTTP Proxy Server](https://github.com/akki1306/rust-proxy.git)
+2. [Website scraping tool](https://github.com/akki1306/bse_notification_scraper.git)
