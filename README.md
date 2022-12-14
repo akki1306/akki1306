@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 Side Projects in Rust:
 
 1. [HTTP Proxy Server](https://github.com/akki1306/rust-proxy.git)
-2. [RAFT Algorithm Implementation](https://github.com/akki1306/raft-rust.git)
+2. [RAFT Consensus Algorithm Implementation](https://github.com/akki1306/raft-rust.git)
 2. [Website scraping tool](https://github.com/akki1306/bse_notification_scraper.git)
