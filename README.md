@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...-->
 - 📫 You can reach me on: [linkedin](https://www.linkedin.com/in/akshay-kulkarni-329a9312/) or [email](mailto:kakki9642@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=akki1306
+
 [![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akki1306&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=akki1306&theme=onedark)
