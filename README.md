@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently contributing to various Open Source projects in Rust and Java.
 - 🌱 Passionate about understanding internals of Databases, Search Engines and Distributed Systems in general. 
-- 👯 Rust is my current programming language of choice.
+- ⚡  Rust is my current programming language of choice.
+- 👯 I am implementing a toy version of RAFT algorithm for distributed consensus. Refer to repository raft-rust below.  
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 - 📫 You can reach me on: [linkedin](https://www.linkedin.com/in/akshay-kulkarni-329a9312/) or [email](mailto:kakki9642@gmail.com)
